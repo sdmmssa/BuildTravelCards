@@ -334,6 +334,16 @@ const response = [
         category: 'family',
         copy:
             'Shirakawa is a mountain village located in far northern Gifu Prefecture, bordering Ishikawa Prefecture and Toyama Prefecture on the Ryōhaku Mountains.'
+    },
+    {
+        name: 'Explore the Grand Canyon',
+        image: 'grandcanyon.jpg',
+        dateFrom: 'Jun 15th 2020',
+        dateTo: 'Sep 30th 2020',
+        guests: 4,
+        category: 'family',
+        copy:
+            'A great moment to visit one of our great national parks in the US.'
     }
 ]
 
